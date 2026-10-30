@@ -7,10 +7,28 @@ I enjoy coding, coffee, and exploring the world of technology. Here's a little a
 - I've been developing my skills more actively since late 2024.
 - Python is currently my main programming language, and I've been learning it since 2023.
 - I enjoy building useful tools for developers, such as CLI and TUI applications and libraries.
+- English: A2 (basic conversational level)
 
 ### 🚧 Projects in progress
 
-- [**APySC**](https://github.com/Pythofanoff/AutoPySC) — currently in active development.
+- [**APySC**](https://github.com/Pythofanoff/AutoPySC) — Structure creator & project manager
 
-### My stacks:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=64/>
+### 🛠️ Technologies & tools
+**Languages and data**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" alt="Python" />
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="48" alt="Bash" />
+</p>
+
+**Tools and platforms**
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" alt="Visual Studio Code" />
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="48" alt ="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" width="48" alt="PyPI" />
+</p>
