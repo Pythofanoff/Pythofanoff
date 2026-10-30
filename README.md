@@ -11,3 +11,6 @@ I enjoy coding, coffee, and exploring the world of technology. Here's a little a
 ### 🚧 Projects in progress
 
 - [**APySC**](https://github.com/Pythofanoff/AutoPySC) — currently in active development.
+
+### My stacks:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=64/>
