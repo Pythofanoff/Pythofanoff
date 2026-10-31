@@ -1,13 +1,14 @@
 <h1 align="center">Hi there! I'm Pythofanoff 👋 </h1>
 
-``` txt
+<h1>
 __        __   _                            _                                             __ _ _      
 \ \      / /__| | ___ ___  _ __ ___   ___  | |_ ___    _ __ ___  _   _   _ __  _ __ ___  / _(_) | ___ 
  \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \  | '_ ` _ \| | | | | '_ \| '__/ _ \| |_| | |/ _ \
   \ V  V /  __/ | (_| (_) | | | | | |  __/ | || (_) | | | | | | | |_| | | |_) | | | (_) |  _| | |  __/
    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/  |_| |_| |_|\__, | | .__/|_|  \___/|_| |_|_|\___|
                                                                  |___/  |_|                                                                       
-```
+</h1>
+
 I enjoy coding, coffee, and exploring the world of technology. Here's a little about me:
 
 - I'm a fourth-year student and expect to graduate in 2027.
